@@ -27,11 +27,11 @@ python sistema_solar_galaxia.py
 ```
 ## Ejemplo de lo que verás
 Tierra-Sol
-
+<img src="tierra-sol.gif" width="500" >
 Sol-Tierra-Luna
-
+<img src="tuna-tierra-sol.gif" width="500" >
 Sistema solar con movimiento galáctico
-
+<img src="sistema-galaxia.gif" width="500" >
 ## Tecnologías utilizadas
 Python
 NumPy
