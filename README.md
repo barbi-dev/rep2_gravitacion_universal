@@ -14,8 +14,9 @@ Simulaciones desarrolladas en Python para estudiar la ley de gravitación univer
 Clona este repositorio en tu máquina local, simplemente:
 
 ```bash
-git clone https://github.com/barbi-dev/rep2_gravitacion_universal.git
-cd rep2_gravitacion_universal
+git clone https://github.com/barbi-dev/simulation_universal_gravitation.git
+cd simulation_universal_gravitation
+
 ```
 Luego, instala las dependencias usando pip:
 ```bash
@@ -24,9 +25,9 @@ pip install -r requirements.txt
 ## Ejecuación
 Cada archivo corresponde a una simulación distinta, para ejecutarlo escribimos python seguido del archivo que deseamos ejecutar:
 ```bash
-python codigo_tierra_sol.py
-python codigo_sol_tierra_luna.py
-python codigo_sistema_solar_galaxia.py
+python earth_sun.py
+python sun_earth_moon.py
+python solar_system_galaxy.py
 ```
 ## Ejemplo de lo que verás
 - Tierra-Sol
